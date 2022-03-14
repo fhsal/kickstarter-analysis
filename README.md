@@ -11,6 +11,8 @@ CWRU Data Analytics Module One Challenge
 
 ### Analysis of Outcomes Based on Launch Date
 
+![img].(https://github.com/fhsal/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ![img](https://github.com/fhsal/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
