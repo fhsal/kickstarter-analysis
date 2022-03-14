@@ -13,6 +13,8 @@ CWRU Data Analytics Module One Challenge
 
 ### Analysis of Outcomes Based on Goals
 
+![img](https://github.com/fhsal/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
